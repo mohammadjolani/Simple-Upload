@@ -1,2 +1,2 @@
 # Simple-Upload
-Simple PHP file sharing system.
+Very dummy PHP upload script
